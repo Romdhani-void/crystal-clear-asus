@@ -94,6 +94,7 @@ Both commands should return no results.
 On ASUS laptops, this will also remove:
 - Fn hotkey functionality (brightness, volume, etc.)
 - Touchpad gesture support
+- Those features can be disabled also from BIOS
 
 On desktops, these side effects do not apply.
 
