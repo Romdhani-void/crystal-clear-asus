@@ -8,6 +8,4 @@ if (-not $Confirm) {
     exit
 }
 
-Write-Output "Executing ASUS cleanup script..."
-.\asus_cleanup.ps1
 
